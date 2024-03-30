@@ -1,0 +1,14 @@
+{
+  "name": "cypress-first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --spec cypress/e2e"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.1"
+  }
+}
